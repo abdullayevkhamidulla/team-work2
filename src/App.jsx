@@ -7,6 +7,8 @@ function App() {
       <div>
         <h1> Home page</h1>
 		<h2>Assalom uzb</h2>
+
+		<h3>hamidullo's commited</h3>
         <About />
       </div>
     </>
